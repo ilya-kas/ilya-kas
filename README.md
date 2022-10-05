@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ilya Kasperski</h1>
-<h3 align="center">An inspired software developer who has begun as a sport programmer at the age of 10. Programming is my passion and I value it as a form of art. It is both my job and way to relax and create something complicated and beautiful. Interested in complicated challenging tasks enough to vary my main specialization. Currently it is android native development. I have also extra interest in AR development.</h3>
+<h4 align="center">An inspired software developer who has begun as a sport programmer at the age of 10. Programming is my passion and I value it as a form of art. It is both my job and way to relax and create something complicated and beautiful. Interested in complicated challenging tasks enough to vary my main specialization. Currently it is android native development. I have also extra interest in AR development.</h4>
 
-- 🔭 I’m currently working on **something interesting :)**
+- 🔭 I’m currently working on something interesting :)
 
-- 🌱 I’m currently learning **Jetpack Compose, Unity and looking for deeper skills at Android native development**
+- 🌱 I’m currently learning Jetpack Compose, Unity and looking for deeper skills at Android native development
 
-- ⚡ Fun fact **There is no programming pathways I have no pet projects at**
+- ⚡ Fun fact There is no programming pathways I have no pet projects at
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
