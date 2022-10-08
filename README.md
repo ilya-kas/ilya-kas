@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Jetpack Compose, Unity and looking for deeper skills at Android native development
 
-- ⚡ Fun fact There is no programming pathways I have no pet projects at
+- ⚡ Fun fact: there is no programming pathway I have no pet projects at
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
